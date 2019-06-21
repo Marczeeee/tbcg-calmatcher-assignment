@@ -1,0 +1,22 @@
+3
+2 Phase1 Phase2
+2
+Phase1 Phase2
+Phase1 Phase2
+2
+1/Phase1=2
+1/Phase2=3
+3 Preparation ManualWork EndOfWeek
+3
+Preparation ManualWork
+ManualWork
+ManualWork EndOfWeek
+2
+1/ManualWork=1
+2/EndOfWeek=4
+3 Phase1 Phase2 Phase3
+1
+Phase1 Phase2 Phase3
+2
+1/Phase2=1
+2/Phase3=4
